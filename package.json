@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Justin Intal",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnintal/data-model.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jnintal/data-model/issues"
+  },
+  "homepage": "https://github.com/jnintal/data-model#readme"
 }
